@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <executable>
+<category>Shape Creation.Advanced</category>
 <title>RigidAlignment</title>
 <version>1.0</version>
 <contributor>Ilwoo Lyu</contributor>
